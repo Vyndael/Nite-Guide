@@ -20,7 +20,9 @@ You can't hit what you can't see. Turn down your graphics settings or tweak it s
 Change your target settings so your AoEs can actually hit. When I used to play Necromancer, I liked using the fast range with indicator so 
 I could ensure that I hit as many people as possible. 
 <img width="781" height="938" alt="image" src="https://github.com/user-attachments/assets/77f70b32-d9c9-408e-a187-5e3523882363" />
+
 ![[Mouse Cursor.png]]
+
 https://github.com/user-attachments/assets/b264d28f-d5dd-4ea1-a168-d66731f4a423
 
 ***Positioning***
