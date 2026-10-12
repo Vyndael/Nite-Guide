@@ -22,7 +22,6 @@ I could ensure that I hit as many people as possible.
 
 <img width="776" height="941" alt="image" src="https://github.com/user-attachments/assets/2cb06d36-0174-481b-b6d2-15c4dd2438de" />
 
-<img width="776" height="941" alt="image" src="https://github.com/user-attachments/assets/6b74ce16-2b18-4a57-bcd4-dba9883369ef" />
 
 [![AOE Indicator](https://img.youtube.com/vi/l2LluHPH9Pw.jpg)](https://www.youtube.com/watch?v=l2LluHPH9Pw)
 
