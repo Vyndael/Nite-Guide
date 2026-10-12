@@ -25,7 +25,7 @@ I could ensure that I hit as many people as possible.
 
 <img width="776" height="941" alt="image" src="https://github.com/user-attachments/assets/6b74ce16-2b18-4a57-bcd4-dba9883369ef" />
 
-https://www.youtube.com/watch?v=l2LluHPH9Pw
+[![AOE Indicator](https://img.youtube.com/vi/l2LluHPH9Pw.jpg)](https://www.youtube.com/watch?v=l2LluHPH9Pw)
 
 ***Positioning***
 
@@ -34,7 +34,7 @@ you need to be at the frontline and don't be shy. Your attacks need to actually 
 limits. Be familiar with what the range is on your attacks. Don't be in front of the commander. You should be moving parallel with him. You
 have a dodge - use it if you need to fall back. 
 
-https://github.com/user-attachments/assets/795e8a57-6070-4518-a411-6168d096d47c
+[![Leap of Faith](https://img.youtube.com/vi/0W0HEmpkX3o.jpg)](https://www.youtube.com/watch?v=0W0HEmpkX3o)
 
 Following tag for me is easy. My eyes are on the enemy more than tag because I don't need to focus on where the commander is prior to 
 engagement. Magics is good at call outs and markers that you can rely on his direction to move with the group and keep the tag in the corner of your eye. Use the mini map to help you orient yourself too. 
@@ -88,16 +88,17 @@ Being a good DPS player means you have to make a lot of judgement calls. You hav
 
 If you see that your hits are getting blocked or the enemy is invulnerable, don't waste your burst. Save it for when it can actually hit. 
 
-https://github.com/user-attachments/assets/99f6ffff-7fde-4b9f-8487-15c31238bba2
+[![Invulnerables & Blocks](https://img.youtube.com/vi/p762dSGg_Ws.jpg)](https://www.youtube.com/watch?v=p762dSGg_Ws)
 
-If they like to veil, you need to start using a ranged attack or drop an AoE nearby (either auto attack or low CD) to reveal them before they reach you. 
+If they like to veil, you need to start using a ranged attack or drop an AoE nearby (either auto attack or low CD) to reveal them before
+they reach you.
 
-https://github.com/user-attachments/assets/cfcdeb98-e46c-4675-b973-27402db529b1
+[![AoE Mag](https://img.youtube.com/vi/0HKG8pssGMY.jpg)](https://www.youtube.com/watch?v=0HKG8pssGMY)
 
 If we're up against Mag, you have to pay attention and dodge their burst. It is possible as you can see it for a second or two before it
 hits.
 
-https://github.com/user-attachments/assets/1d0dafa4-f027-4a55-a3c5-399c434d574f
+[![Mag Dodge](https://img.youtube.com/vi/PG2ILR7_gMI.jpg)](https://www.youtube.com/watch?v=PG2ILR7_gMI)
 
 **Dragon Banner**
 
