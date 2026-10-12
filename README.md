@@ -25,8 +25,7 @@ I could ensure that I hit as many people as possible.
 
 <img width="776" height="941" alt="image" src="https://github.com/user-attachments/assets/6b74ce16-2b18-4a57-bcd4-dba9883369ef" />
 
-[https://github.com/user-attachments/assets/b264d28f-d5dd-4ea1-a168-d66731f4a423
-](https://www.youtube.com/watch?v=l2LluHPH9Pw)
+https://www.youtube.com/watch?v=l2LluHPH9Pw
 
 ***Positioning***
 
