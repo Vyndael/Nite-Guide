@@ -1,5 +1,4 @@
-# Nite-Guide
-DPS Player Guide
+# DPS Player Guide
 In an effort to get more people to play DPS, I decided to make this guide. DPS strips may also find this helpful. 
 
 Disclaimer: This is a method that works for me and it may not work for you and that's okay. No one taught me any of this. I just figured it 
